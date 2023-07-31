@@ -37,4 +37,3 @@ R: O logo estará centralizado no centro do cabeçalho.
 12. Qual a localização dos ícones de redes sociais?
 R: Terão ícones menores no cabeçalho e ícones maiores no rodapé.
 
-
