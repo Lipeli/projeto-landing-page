@@ -132,7 +132,3 @@ A sua Landing Page deve conter:
 
 ### Link do surge:
 Link: tacky-part.surge.sh
-
-### Fotos:
-
-Não foi possível inserir as fotos neste documento
