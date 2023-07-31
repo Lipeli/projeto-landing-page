@@ -207,6 +207,17 @@ footer {
     gap: 10px;
 }
 
+#femShoeShop{
+    height: 500px;
+    border-radius: 20%;
+}
+
+#mascShoeShop{
+    height: 550px;
+    width: 700px;
+    border-radius: 20%;
+}
+
 /* Responsividade */
 
 @media screen and (max-width: 915px) {
@@ -314,6 +325,17 @@ footer {
         border-bottom-right-radius: 15% ;
         color: white;
         padding: 5px;
+    }
+
+    #femShoeShop{
+        height: 220px;
+        border-radius: 20%;
+    }
+    
+    #mascShoeShop{
+        height: 260px;
+        width: 300px;
+        border-radius: 20%;
     }
 
 }
